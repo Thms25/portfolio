@@ -1,0 +1,15 @@
+:root {
+  --color1: rgb(155, 187, 214);
+  --color2: white;
+  --color3: white;
+  --color4: white;
+}
+
+body {
+  background-color: var(--color1);
+  text-align: center;
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
